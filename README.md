@@ -1,3 +1,5 @@
 # ShibataAkiko
 
-*inada
+* inada
+* ようへい
+* かいと
